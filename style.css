@@ -116,3 +116,12 @@ header{
     border-bottom-right-radius: 3px;
 }
 
+footer{
+    background-color: black;
+    text-align: center;
+    margin: 7% 0 0 0;
+    padding: 5%;
+}
+footer h1{color: orange;}
+footer p{color: white;}
+
